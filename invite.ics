@@ -1,0 +1,78 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:Asia/Kolkata
+X-LIC-LOCATION:Asia/Kolkata
+BEGIN:STANDARD
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+TZNAME:GMT+5:30
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20250703T153000
+DTEND;TZID=Asia/Kolkata:20250703T164500
+DTSTAMP:20250702T103705Z
+ORGANIZER;CN=Ashish Yadav:mailto:ashish.yadav1@timesinternet.in
+UID:nebvfve2ic329ia6kc2gek04k0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=rohandobriyal196@gmail.com;X-NUM-GUESTS=0:mailto:rohandobriyal196@g
+ mail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/ikj-ivfr-ncz
+X-MICROSOFT-CDO-OWNERAPPTID:-1171381637
+CREATED:20250702T103701Z
+DESCRIPTION: \n<html><head><meta content="text/html\; charset=utf-8" http-e
+ quiv="Content-type"></head><body style="background-color: #fafafa\;"><table
+  style="border-collapse:collapse\;line-height:100%!important\;width:100%!im
+ portant\;font-family:sans-serif\;" border="0" cellpadding="0" cellspacing="
+ 0" align="center"><tbody><tr><td style="padding-top:20px\;padding-bottom:20
+ px\;"><table style="border-collapse:collapse\;max-width:635px\;min-width:35
+ 0px\;width:auto\;margin:0 auto\;border:0.5px solid #EEE\;" align="center"><
+ tbody><tr><td><table style="border-collapse:collapse\;margin:0 auto\;" alig
+ n="center"><tbody><tr style="background:#fff\;"><td colspan="2" style="padd
+ ing:20px\; padding-bottom:0\;" valign="top"><table style="width:100%\;"><tb
+ ody><tr><td colspan="2" style="padding-bottom:20px\;text-align:left\;border
+ -bottom:1px solid #EEE\;" valign="middle"><img height="50" src="https://dar
+ winbox-data-prod-mum.s3.ap-south-1.amazonaws.com/INSTANCE2_5a6dec8d40db9_12
+ 7/logo/5cb079954d31c__tenant-avatar-127_380525862.png" alt="" style="displa
+ y:block"></td></tr></tbody></table></td></tr><tr style="min-height:300px\;b
+ ackground:#fff"><td colspan="2" style="padding:20px" valign="top"><table st
+ yle="width:100%\;font-size:12px\;font-family: Century Gothic\,CenturyGothic
+ \,AppleGothic\,sans-serif\;"><tbody><p>Hi <strong>ROHAN DOBRIYAL</strong>\,
+ <br></p><p>As part of our evaluation for the <strong>Data Engineer (</stron
+ g><strong>AGI</strong><strong>)</strong> position\, an interview/evaluation
+  has been scheduled for you at&nbsp\;<strong>03-07-2025</strong><strong>&nb
+ sp\;</strong>from<strong>&nbsp\;</strong><strong>15:30-16:45</strong>. <br>
+ Please make yourself available at the specified time slot and join the Goog
+ le Meet link&nbsp\;<strong>N.A.</strong>\, unless specified otherwise.&nbsp
+ \;</p><p></p><p>In case of questions\, please reach out to (<strong>Ashish 
+ Yadav\, &nbsp\;</strong><strong>ashish.yadav1@timesinternet.in</strong>)</p
+ ><p>Regards\,<br>HR Team\,<br><strong>Times Internet</strong></p><tr><td st
+ yle="text-align:left\;border-bottom:1px solid #EEE\;padding-top:15px\; padd
+ ing-bottom:25px\;line-height: 22px\;"></td></tr></tbody></table></td></tr><
+ tr style="background-color:#fff\;width:100%"><td valign="middle" style="pad
+ ding:18px 0\;color:#ffffff\;padding-left:25px\;text-align:left\;font-size:1
+ 2px\;"><a href="https://www.darwinbox.com/?utm_source=dbox.email.notificati
+ on&utm_medium=powered-by-darwinbox&utm_campaign=product-traffic&utm_content
+ =text" target="_blank" style="text-decoration:none\;"><span style="color: #
+ CCC\;"> Powered By : </span> Darwinbox</a></td></tr></tbody></table></td></
+ tr></tbody></table></td></tr></tbody></table></body></html>\n\n\n-::~:~::~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~:
+ :-\nJoin with Google Meet: https://meet.google.com/ikj-ivfr-ncz\nOr dial: (
+ US) +1 929-260-4206 PIN: 586385050#\nMore phone numbers: https://tel.meet/i
+ kj-ivfr-ncz?pin=4193878673727&hs=7\n\nLearn more about Meet at: https://sup
+ port.google.com/a/users/answer/9282720\n\nPlease do not edit this section.\
+ n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~::~:~::-
+LAST-MODIFIED:20250702T103704Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Virtual Round 1 || Data Analyst Intern || Times Internet || Noida
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
